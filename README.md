@@ -24,7 +24,7 @@
 - 🏁 Active **CTF Player** on PicoCTF, TryHackMe & HackTheBox
 - 🐧 Daily driving **Kali Linux**
 - 📚 Currently learning **Python for Security** & **Web App Testing**
-- 🌍 Open to **Remote Cybersecurity Internships**
+- 🌍 Open to **Seeking Junior Offensive Security / Red Team Remote Internships (UK/Global remote)**
 
 ---
 
