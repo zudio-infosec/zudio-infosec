@@ -42,14 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zudio-infosec&show_icons=true&theme=radical&bg_color=0d1117&title_color=1A56A0&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zudio-infosec&layout=compact&theme=radical&bg_color=0d1117&title_color=1A56A0&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
----
 
 ### 🏁 CTF & Labs
 
