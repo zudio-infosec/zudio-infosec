@@ -2,8 +2,8 @@
 <h3 align="center">🔐 Cybersecurity Student | CTF Player | Red Team Learner</h3>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/zudio001">
-    <img src="https://img.shields.io/badge/TryHackMe-zudio001-FF9900?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <a href="https://tryhackme.com/p/zudio.infosec">
+    <img src="https://img.shields.io/badge/TryHackMe-zudio.infosec-FF9900?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
   <a href="https://www.hackthebox.com/profile/1961817">
     <img src="https://img.shields.io/badge/HackTheBox-zudio001-00FF00?style=flat&logo=hackthebox&logoColor=white" alt="HackTheBox" />
