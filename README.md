@@ -46,12 +46,6 @@ A curated collection of security breakdowns.
 - 🎯 **Objective**: Junior Offensive Security Internship (UK / Remote).
 
 <div align="center">
-</div>
-
-  <img src="https://komarev.com/ghpvc/?username=zudio-infosec&color=00ff41&style=flat-square" alt="Profile views" />
-</p>
-
-<div align="center">
   <img src="https://cdn-images.tryhackme.com/public-profile/zudio.infosec/badge-fb13177ee30b.png" alt="TryHackMe Badge" width="400" />
 </div>
 
